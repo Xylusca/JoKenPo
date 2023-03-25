@@ -118,3 +118,15 @@ h2 {
     text-decoration: none;
     cursor: pointer;
 }
+
+@media screen and (max-width: 480px) {
+    h1 {
+      font-size: 30px;
+    }
+    img {
+      width: 80px;
+    }
+    #escolha{
+        font-size: 15px;
+    }
+  }
