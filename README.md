@@ -1,12 +1,12 @@
 # Jogo de Jokenpô
 Esse é um simples jogo de Jokenpô que pode ser jogado no navegador. O objetivo do jogo é derrotar o adversário escolhendo a opção que vence de acordo com as regras do Jokenpô.
 
-Tecnologias utilizadas
+<h2>Tecnologias utilizadas</h2>
 * HTML
 * CSS
 * JavaScript
 
-Como jogar
+Como jogar:
 Abra o arquivo index.html em seu navegador
 Escolha uma das três opções (pedra, papel ou tesoura) clicando na imagem correspondente
 O adversário escolherá uma das opções aleatoriamente
