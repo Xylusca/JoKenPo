@@ -24,4 +24,4 @@ Ilustrações mostrando qual opção vence de qual
 Contribuições são bem-vindas! Caso queira sugerir melhorias, novas funcionalidades ou reportar algum bug, sinta-se livre para abrir uma issue ou pull request neste repositório.
 
 <h2>Autor</h2>
-Lucas perira da cruz - lukas_sud@live.com - <https://github.com/Xylusca>
+Lucas Perira da Cruz - lukas_sud@live.com - <https://github.com/Xylusca>
